@@ -4,6 +4,8 @@
 
 SpaceKeep never deletes anything. By default it only prints a plan.
 
+> **Want a window instead of a command line?** [SpaceKeep Pro ($9, one-time)](https://davidlee678.gumroad.com/l/djxoozd) adds a simple Windows app with scan, preview, quarantine and one-click restore, plus a weekly report-only schedule and largest-files and old-downloads reports. The free version stays free.
+
 ## What it does
 
 1. You point it at your **keeper** folders (the copies you want to keep) and your **scan roots** (old backups, recovered files, archive dumps).
