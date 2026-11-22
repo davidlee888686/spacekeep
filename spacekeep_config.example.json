@@ -1,0 +1,19 @@
+{
+  "keepers": [
+    "C:\\Users\\YOU\\Documents"
+  ],
+  "roots": [
+    "D:\\Old_Backups",
+    "D:\\Recovered_Files"
+  ],
+  "protected": [
+    "C:\\Windows",
+    "C:\\Program Files",
+    "C:\\Program Files (x86)",
+    "C:\\ProgramData"
+  ],
+  "protected_names": [
+    ".git"
+  ],
+  "forbidden_drives": []
+}
