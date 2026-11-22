@@ -85,6 +85,10 @@ Questions, bugs or ideas: open an [Issue](https://github.com/davidlee888686/spac
 - [Serenie](https://github.com/davidlee888686/serenie-cli): free, local file fingerprinting with SHA-256 and a hash-chained ledger you can verify later.
 - **Aria**, a private, honest desktop assistant, is coming: [join the beta list](https://github.com/davidlee888686/serenie-cli/discussions/6).
 
+## Support
+
+Free and MIT licensed. If it helps you, an optional tip goes toward a faster PC for development: [Venmo](https://venmo.com/u/David-CAMPBELL-967)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
