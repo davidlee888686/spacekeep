@@ -91,6 +91,14 @@ Questions, bugs or ideas: open an [Issue](https://github.com/davidlee888686/spac
 
 Free and MIT licensed. If it helps you, an optional tip goes toward a faster PC for development: [Venmo](https://venmo.com/u/David-CAMPBELL-967)
 
+## More from the author
+
+Guides and tools: [davidlee678.gumroad.com](https://davidlee678.gumroad.com)
+
+- [Fix-It Guide Bundle](https://davidlee678.gumroad.com/l/ghtlm) ($59)
+- [Run Local AI on a Cheap Windows PC](https://davidlee678.gumroad.com/l/qjqtl) ($19)
+- [Free Up a Full C: Drive](https://davidlee678.gumroad.com/l/zuhltx) ($12)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
